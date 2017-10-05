@@ -1,2 +1,2 @@
 # hello-world
-A small repository in sea of repositories
+A small repository in a sea of repositories
